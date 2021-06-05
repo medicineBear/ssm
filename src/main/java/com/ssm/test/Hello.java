@@ -1,4 +1,4 @@
-package com.yaorui.test;
+package com.ssm.test;
 
 /**
  * @author medicineBear
